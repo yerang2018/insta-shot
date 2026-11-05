@@ -1,0 +1,1 @@
+Read AGENTS.md, HANDOFF.md and COLLABORATION.md before working. Use the assigned personal/feature branch in your own checkout. Never overwrite another developer’s changes or commit local secrets/photos. Update the shared handoff with relevant implementation and verification facts.
